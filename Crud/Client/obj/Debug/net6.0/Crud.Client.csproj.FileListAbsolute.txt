@@ -1,0 +1,6 @@
+D:\Visual Studio\Blazor 6.0\Crud\Crud\Client\obj\Debug\net6.0\Crud.Client.csproj.AssemblyReference.cache
+D:\Visual Studio\Blazor 6.0\Crud\Crud\Client\obj\Debug\net6.0\Crud.Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Blazor 6.0\Crud\Crud\Client\obj\Debug\net6.0\Crud.Client.AssemblyInfoInputs.cache
+D:\Visual Studio\Blazor 6.0\Crud\Crud\Client\obj\Debug\net6.0\Crud.Client.AssemblyInfo.cs
+D:\Visual Studio\Blazor 6.0\Crud\Crud\Client\obj\Debug\net6.0\Crud.Client.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Blazor 6.0\Crud\Crud\Client\obj\Debug\net6.0\Crud.Client.MvcApplicationPartsAssemblyInfo.cache
